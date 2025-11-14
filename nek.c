@@ -1,7 +1,9 @@
+// Copyright 2025 Varun
+
 #include <stdio.h>
 
-int main() {
-    printf("india is ammazing");
-    printf("i love cricket");
-    return 0;
+int main(void) {
+  printf("india is amazing\n");
+  printf("i love cricket\n");
+  return 0;
 }
